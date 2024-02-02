@@ -1,0 +1,24 @@
+Nome(s) do(s) Estudante(s): Rubem Livio
+Turma: 3A
+Atividade Avaliativa: Sim
+Local: Casa
+Código de Segurança do Projeto: e49490a5-6d2d-48fd-8697-6d91f20b81eb
+Data de Registro: 2023-11-13
+Hora de Registro: 14:05:07
+
+Nome(s) do(s) Estudante(s): Neto abreu 
+Turma: 3A
+Atividade Avaliativa: Sim
+Local: Casa
+Código de Segurança do Projeto: eb8612f3-06b4-4246-a8c0-4befe39fabb5
+Data de Registro: 2023-11-14
+Hora de Registro: 15:00:17
+
+Nome(s) do(s) Estudante(s): Gustavo Costa Reis
+Turma: M3
+Atividade Avaliativa: Sim
+Local: Casa
+Código de Segurança do Projeto: 35b79ffd-4e88-45bf-937a-9c2560c5833a
+Data de Registro: 2023-11-16
+Hora de Registro: 00:20:13
+
